@@ -1,0 +1,4 @@
+#Custom Prompt
+if [ "$NO_THEME" -eq "0" ] ; then
+	source $HOME/.myconf/clients/zsh/asset/theme/loader.sh
+fi
